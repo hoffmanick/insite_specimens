@@ -2,6 +2,6 @@
 theme: jekyll-theme-minimal
 layout: page
 title: INSITE
-description: These are the landing pages for INSITE specimens
+description:
 email: "insite@ucmerced.edu"
 ---
