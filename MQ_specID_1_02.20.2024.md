@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <style> * {background-color: cornsilk;}</style>
 <h style='font-size:large;font-weight:bold;'>Specimen information</h>
 <p>specID: 1</p>
