@@ -3,13 +3,13 @@ layout: default
 ---
 <style> * {background-color: cornsilk;}</style>
 <h style='font-size:large;font-weight:bold;'>Specimen information</h>
-<p>specID: 11</p>
-<p>species: Euprymna scolopes</p>
-<p>strain: test</p>
-<p>date: 02.29.2024</p>
-<p>lat: -1</p>
-<p>lon: 20</p>
-<p>storage: Freezer 2_2</p>
+<p>specID: 4</p>
+<p>species: homo</p>
+<p>strain: them</p>
+<p>date: yesterday</p>
+<p>lat: over there</p>
+<p>lon: 0</p>
+<p>storage: home</p>
 <br>
 <h style='font-size:large;font-weight:bold;'>Analyses information</h>
 

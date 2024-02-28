@@ -8,8 +8,8 @@ layout: default
 <p>strain: 1_a</p>
 <p>date: 02.20.2024</p>
 <p>lat: 53</p>
-<p>long: 102</p>
-<p>storage: freezer 2_4</p>
+<p>lon: 10</p>
+<p>storage: new storage</p>
 <br>
 <h style='font-size:large;font-weight:bold;'>Analyses information</h>
 
@@ -34,13 +34,6 @@ layout: default
 <p>tissue: Bacteriome</p>
 <p>analysisDate: 02.26.2024</p>
 <p>analyst: someone</p>
-<br>
-<p>analysisID: 11</p>
-<p>kind: text</p>
-<p>specID: 1</p>
-<p>tissue: input$tish</p>
-<p>analysisDate: date</p>
-<p>analyst: text</p>
 <br>
 <p>analysisID: 12</p>
 <p>kind: RNA Sequencing</p>
